@@ -22,11 +22,11 @@
 
 ## 프로젝트 일정
 
-![image-20211208060733505-16389117573607](https://user-images.githubusercontent.com/47266337/145107506-31190859-9a1e-48cc-9fea-1048ed489523.png)
+![일정표1](https://user-images.githubusercontent.com/47266337/145250306-f71ab1ac-0b7a-41cd-a661-afeb83d964d6.png)
 
-![image-20211208060742781](https://user-images.githubusercontent.com/47266337/145107522-3854a878-64e8-4b46-8b20-c84ab32dbd65.png)
+![일정표2](https://user-images.githubusercontent.com/47266337/145250334-ec269a16-1bfa-4113-bf08-f51c30473c4e.png)
 
-![image-20211208060752399](https://user-images.githubusercontent.com/47266337/145107541-f7df00e1-56b9-44a3-b092-aa983113ab56.png)
+![일정표3](https://user-images.githubusercontent.com/47266337/145250344-0208d72a-23c0-43ce-91d2-d29f46d5a6c1.png)
 
 ## 시스템 구성도
 
